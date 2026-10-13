@@ -1,0 +1,11 @@
+ERPfile,BinIndex,BinLabel,AcceptedTrials,Passes_MIN_TRIALS
+sub-01_ses-01_ERP.erp,1,TWOBACK_Start_End ,0,0
+sub-01_ses-01_ERP.erp,2,TWOBACK_End ,0,0
+sub-01_ses-01_ERP.erp,3,TWOBACK_Block_Start ,2,0
+sub-01_ses-01_ERP.erp,4,TWOBACK_Block_End ,3,0
+sub-01_ses-01_ERP.erp,5,TWOBACK_Normal_Trial_Onset,94,1
+sub-01_ses-01_ERP.erp,6,TWOBACK_Hit_Trial_Onset ,48,1
+sub-01_ses-01_ERP.erp,7,TWOBACK_Conflict_Trial_Onset,0,0
+sub-01_ses-01_ERP.erp,8,TWOBACK_Error_Response,3,0
+sub-01_ses-01_ERP.erp,9,TWOBACK_Correct_Response,49,1
+sub-01_ses-01_ERP.erp,10,TWOBACK_Conflict_Error,13,0

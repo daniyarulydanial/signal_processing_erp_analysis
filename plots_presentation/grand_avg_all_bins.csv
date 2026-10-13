@@ -1,0 +1,11 @@
+ERPfile,BinIndex,BinLabel,AcceptedTrials,Passes_MIN_TRIALS
+grand_avg_all.erp,1,TWOBACK_Start_End ,0,0
+grand_avg_all.erp,2,TWOBACK_End ,0,0
+grand_avg_all.erp,3,TWOBACK_Block_Start ,6,0
+grand_avg_all.erp,4,TWOBACK_Block_End ,9,0
+grand_avg_all.erp,5,TWOBACK_Normal_Trial_Onset,280,1
+grand_avg_all.erp,6,TWOBACK_Hit_Trial_Onset ,143,1
+grand_avg_all.erp,7,TWOBACK_Conflict_Trial_Onset,0,0
+grand_avg_all.erp,8,TWOBACK_Error_Response,10,0
+grand_avg_all.erp,9,TWOBACK_Correct_Response,118,1
+grand_avg_all.erp,10,TWOBACK_Conflict_Error,32,1

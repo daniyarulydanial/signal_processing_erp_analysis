@@ -1,0 +1,73 @@
+ERPfile,BinIndex,BinLabel,Channel,AcceptedTrials,PeakAmp_uV,PeakLat_ms
+grand_avg_all.erp,5,TWOBACK_Normal_Trial_Onset,Pz,280,2.74086554957902,280
+grand_avg_all.erp,6,TWOBACK_Hit_Trial_Onset ,Pz,143,4.92131371193744,428
+grand_avg_all.erp,9,TWOBACK_Correct_Response,Pz,118,-2.36307559050045,252
+grand_avg_all.erp,10,TWOBACK_Conflict_Error,Pz,32,-2.93731164524698,472
+grand_avg_all.erp,5,TWOBACK_Normal_Trial_Onset,Fz,280,3.17256380314898,392
+grand_avg_all.erp,6,TWOBACK_Hit_Trial_Onset ,Fz,143,3.46334353800925,252
+grand_avg_all.erp,9,TWOBACK_Correct_Response,Fz,118,2.35914676422954,424
+grand_avg_all.erp,10,TWOBACK_Conflict_Error,Fz,32,4.33028936793662,284
+grand_avg_all.erp,5,TWOBACK_Normal_Trial_Onset,Oz,280,-1.53874429390128,496
+grand_avg_all.erp,6,TWOBACK_Hit_Trial_Onset ,Oz,143,-1.12824570484477,464
+grand_avg_all.erp,9,TWOBACK_Correct_Response,Oz,118,1.23678218627759,252
+grand_avg_all.erp,10,TWOBACK_Conflict_Error,Oz,32,5.39360804435534,480
+grand_avg_all.erp,5,TWOBACK_Normal_Trial_Onset,POz,280,0.908183953290478,272
+grand_avg_all.erp,6,TWOBACK_Hit_Trial_Onset ,POz,143,2.77171327881779,428
+grand_avg_all.erp,9,TWOBACK_Correct_Response,POz,118,-0.897024630652195,340
+grand_avg_all.erp,10,TWOBACK_Conflict_Error,POz,32,-0.758066470806415,480
+grand_avg_all.erp,5,TWOBACK_Normal_Trial_Onset,CPz,280,3.14610684968243,368
+grand_avg_all.erp,6,TWOBACK_Hit_Trial_Onset ,CPz,143,5.38726181454129,348
+grand_avg_all.erp,9,TWOBACK_Correct_Response,CPz,118,-0.957308912334465,252
+grand_avg_all.erp,10,TWOBACK_Conflict_Error,CPz,32,-3.34998403043828,416
+grand_avg_all.erp,5,TWOBACK_Normal_Trial_Onset,FCz,280,4.3186685526061,360
+grand_avg_all.erp,6,TWOBACK_Hit_Trial_Onset ,FCz,143,4.4270108089943,344
+grand_avg_all.erp,9,TWOBACK_Correct_Response,FCz,118,1.415972846743,296
+grand_avg_all.erp,10,TWOBACK_Conflict_Error,FCz,32,1.96153828221509,384
+sub-01_ses-01_ERP.erp,5,TWOBACK_Normal_Trial_Onset,Pz,94,3.96848378282912,284
+sub-01_ses-01_ERP.erp,6,TWOBACK_Hit_Trial_Onset ,Pz,48,6.35728009541829,428
+sub-01_ses-01_ERP.erp,9,TWOBACK_Correct_Response,Pz,49,-0.607293343057438,412
+sub-01_ses-01_ERP.erp,5,TWOBACK_Normal_Trial_Onset,Fz,94,3.54856320644947,396
+sub-01_ses-01_ERP.erp,6,TWOBACK_Hit_Trial_Onset ,Fz,48,3.33114751180013,372
+sub-01_ses-01_ERP.erp,9,TWOBACK_Correct_Response,Fz,49,0.604598142662827,460
+sub-01_ses-01_ERP.erp,5,TWOBACK_Normal_Trial_Onset,Oz,94,-1.06200124862346,496
+sub-01_ses-01_ERP.erp,6,TWOBACK_Hit_Trial_Onset ,Oz,48,-0.865935564041138,272
+sub-01_ses-01_ERP.erp,9,TWOBACK_Correct_Response,Oz,49,3.46427574936224,440
+sub-01_ses-01_ERP.erp,5,TWOBACK_Normal_Trial_Onset,POz,94,0.434312455197598,284
+sub-01_ses-01_ERP.erp,6,TWOBACK_Hit_Trial_Onset ,POz,48,1.41324774424235,432
+sub-01_ses-01_ERP.erp,9,TWOBACK_Correct_Response,POz,49,0.909649128816566,432
+sub-01_ses-01_ERP.erp,5,TWOBACK_Normal_Trial_Onset,CPz,94,3.94519172830785,356
+sub-01_ses-01_ERP.erp,6,TWOBACK_Hit_Trial_Onset ,CPz,48,7.26928838094075,428
+sub-01_ses-01_ERP.erp,9,TWOBACK_Correct_Response,CPz,49,-1.77716811822385,412
+sub-01_ses-01_ERP.erp,5,TWOBACK_Normal_Trial_Onset,FCz,94,4.22803773271277,348
+sub-01_ses-01_ERP.erp,6,TWOBACK_Hit_Trial_Onset ,FCz,48,4.49623076121012,340
+sub-01_ses-01_ERP.erp,9,TWOBACK_Correct_Response,FCz,49,0.15362632517912,488
+sub-03_ses-01_ERP.erp,5,TWOBACK_Normal_Trial_Onset,Pz,96,3.33541774749756,268
+sub-03_ses-01_ERP.erp,6,TWOBACK_Hit_Trial_Onset ,Pz,48,4.50147438049316,376
+sub-03_ses-01_ERP.erp,9,TWOBACK_Correct_Response,Pz,51,-0.568743163464116,428
+sub-03_ses-01_ERP.erp,5,TWOBACK_Normal_Trial_Onset,Fz,96,2.24230019251506,252
+sub-03_ses-01_ERP.erp,6,TWOBACK_Hit_Trial_Onset ,Fz,48,3.65588029225667,252
+sub-03_ses-01_ERP.erp,9,TWOBACK_Correct_Response,Fz,51,1.95754466337316,292
+sub-03_ses-01_ERP.erp,5,TWOBACK_Normal_Trial_Onset,Oz,96,-1.142551501592,272
+sub-03_ses-01_ERP.erp,6,TWOBACK_Hit_Trial_Onset ,Oz,48,-0.721818129221598,452
+sub-03_ses-01_ERP.erp,9,TWOBACK_Correct_Response,Oz,51,3.0419096105239,432
+sub-03_ses-01_ERP.erp,5,TWOBACK_Normal_Trial_Onset,POz,96,2.87266063690186,272
+sub-03_ses-01_ERP.erp,6,TWOBACK_Hit_Trial_Onset ,POz,48,2.75762875874837,272
+sub-03_ses-01_ERP.erp,9,TWOBACK_Correct_Response,POz,51,-0.0617405339783313,432
+sub-03_ses-01_ERP.erp,5,TWOBACK_Normal_Trial_Onset,CPz,96,3.41898155212402,380
+sub-03_ses-01_ERP.erp,6,TWOBACK_Hit_Trial_Onset ,CPz,48,4.49088795979818,364
+sub-03_ses-01_ERP.erp,9,TWOBACK_Correct_Response,CPz,51,0.192891625797047,252
+sub-03_ses-01_ERP.erp,5,TWOBACK_Normal_Trial_Onset,FCz,96,3.41917737325033,376
+sub-03_ses-01_ERP.erp,6,TWOBACK_Hit_Trial_Onset ,FCz,48,4.07395521799723,324
+sub-03_ses-01_ERP.erp,9,TWOBACK_Correct_Response,FCz,51,1.43696818632238,288
+sub-04_ses-01_ERP.erp,5,TWOBACK_Normal_Trial_Onset,Pz,90,3.89964158799913,500
+sub-04_ses-01_ERP.erp,6,TWOBACK_Hit_Trial_Onset ,Pz,47,8.01972409512134,472
+sub-04_ses-01_ERP.erp,5,TWOBACK_Normal_Trial_Onset,Fz,90,5.83354899088542,388
+sub-04_ses-01_ERP.erp,6,TWOBACK_Hit_Trial_Onset ,Fz,47,5.56191886739528,348
+sub-04_ses-01_ERP.erp,5,TWOBACK_Normal_Trial_Onset,Oz,90,-1.14418640136719,492
+sub-04_ses-01_ERP.erp,6,TWOBACK_Hit_Trial_Onset ,Oz,47,1.48267267105427,464
+sub-04_ses-01_ERP.erp,5,TWOBACK_Normal_Trial_Onset,POz,90,2.49521077473958,476
+sub-04_ses-01_ERP.erp,6,TWOBACK_Hit_Trial_Onset ,POz,47,6.90316253012799,476
+sub-04_ses-01_ERP.erp,5,TWOBACK_Normal_Trial_Onset,CPz,90,3.20749715169271,500
+sub-04_ses-01_ERP.erp,6,TWOBACK_Hit_Trial_Onset ,CPz,47,6.87515973030253,472
+sub-04_ses-01_ERP.erp,5,TWOBACK_Normal_Trial_Onset,FCz,90,6.15978461371528,376
+sub-04_ses-01_ERP.erp,6,TWOBACK_Hit_Trial_Onset ,FCz,47,6.13890627597241,348
