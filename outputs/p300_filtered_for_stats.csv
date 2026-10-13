@@ -1,0 +1,9 @@
+ERPfile,BinIndex,BinLabel,Channel,AcceptedTrials,PeakAmp_uV,PeakLat_ms,subject,cond_short,cond_cat
+sub-01_ses-01_ERP.erp,5,TWOBACK_Normal_Trial_Onset,Pz,94,3.96848378282912,284,sub-01,Normal,Normal
+sub-01_ses-01_ERP.erp,6,TWOBACK_Hit_Trial_Onset,Pz,48,6.35728009541829,428,sub-01,Hit,Hit
+sub-01_ses-01_ERP.erp,9,TWOBACK_Correct_Response,Pz,49,-0.607293343057438,412,sub-01,CorrectResp,CorrectResp
+sub-03_ses-01_ERP.erp,5,TWOBACK_Normal_Trial_Onset,Pz,96,3.33541774749756,268,sub-03,Normal,Normal
+sub-03_ses-01_ERP.erp,6,TWOBACK_Hit_Trial_Onset,Pz,48,4.50147438049316,376,sub-03,Hit,Hit
+sub-03_ses-01_ERP.erp,9,TWOBACK_Correct_Response,Pz,51,-0.568743163464116,428,sub-03,CorrectResp,CorrectResp
+sub-04_ses-01_ERP.erp,5,TWOBACK_Normal_Trial_Onset,Pz,90,3.89964158799913,500,sub-04,Normal,Normal
+sub-04_ses-01_ERP.erp,6,TWOBACK_Hit_Trial_Onset,Pz,47,8.01972409512134,472,sub-04,Hit,Hit

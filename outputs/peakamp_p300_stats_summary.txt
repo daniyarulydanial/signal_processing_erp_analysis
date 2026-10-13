@@ -1,0 +1,34 @@
+Channel: Pz
+Measure: PeakAmp_uV
+MIN_TRIALS: 30
+Subjects present (all rows): ['sub-01', 'sub-03', 'sub-04']
+N complete pairs: 3
+
+Descriptives (mean ± sem):
+  Normal: count=3, mean=3.7345, sem=0.2005
+  Hit: count=3, mean=6.2928, sem=1.0161
+
+Tests:
+Paired permutation (Hit-Normal): mean_diff=2.5583, p=0.2589
+Bootstrap mean diff: 2.5583, 95% CI = [1.1661, 4.1201]
+Paired t-test: t=2.9853, p=0.0963
+Wilcoxon: W=0.0000, p=0.2500
+Paired Cohen's d: 1.7236
+
+LME summary (fixed effects):
+           Mixed Linear Model Regression Results
+===========================================================
+Model:             MixedLM  Dependent Variable:  PeakAmp_uV
+No. Observations:  6        Method:              ML        
+No. Groups:        3        Scale:               0.7344    
+Min. group size:   2        Log-Likelihood:      -8.5671   
+Max. group size:   2        Converged:           Yes       
+Mean group size:   2.0                                     
+-----------------------------------------------------------
+                   Coef. Std.Err.   z   P>|z| [0.025 0.975]
+-----------------------------------------------------------
+Intercept          3.735    0.598 6.245 0.000  2.562  4.907
+C(cond_cat)[T.Hit] 2.558    0.700 3.656 0.000  1.187  3.930
+Group Var          0.338    0.951                          
+===========================================================
+

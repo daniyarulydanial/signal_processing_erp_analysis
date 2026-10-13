@@ -1,0 +1,105 @@
+Pipeline started: 16-Nov-2025 19:45:48
+EEGLAB started: 16-Nov-2025 19:45:51
+Parsing triggerlist: C:\Users\User\Jupyter projects\eeg-analysis\cog_bci\triggerlist.txt
+Loaded 62 trigger mappings
+[16-Nov-2025 19:45:53] Processing C:\Users\User\Jupyter projects\eeg-analysis\cog_bci\sub-01\ses-01\eeg\twoBACK.set
+Found chanlocs file: C:\Users\User\Jupyter projects\eeg-analysis\cog_bci\sub-01\ses-01\chanlocs\get_chanlocs.txt
+Assigned coordinates for 59 channels based on C:\Users\User\Jupyter projects\eeg-analysis\cog_bci\sub-01\ses-01\chanlocs\get_chanlocs.txt
+Downsampled to 250 Hz
+High-pass filtered at 1.00 Hz
+Applied CleanLine at 50 Hz
+Saved pre-ICA set: C:\Users\User\Jupyter projects\eeg-analysis\cog_bci\results_paperPipeline\processed\sub-01_ses-01_preICA.set
+Saved physio-only set: C:\Users\User\Jupyter projects\eeg-analysis\cog_bci\results_paperPipeline\processed\sub-01_ses-01_physioChannels.set
+Excluded non-EEG channels for ICA/bad-channel detection: ECG1
+Auto-detected 2 bad channels by 2-SD rule: P8, TP8
+Interpolated 2 channels and restored to scalp montage
+Re-referenced to average (full-rank)
+Running ICA (runica extended)... this may take a while
+ICA finished: 59 components
+Saved post-ICA set: C:\Users\User\Jupyter projects\eeg-analysis\cog_bci\results_paperPipeline\processed\sub-01_ses-01_postICA.set
+Saved ICLabel table (all ICs): C:\Users\User\Jupyter projects\eeg-analysis\cog_bci\results_paperPipeline\processed\sub-01_ses-01_ICLabel_all.csv
+Saved removed ICs CSV: C:\Users\User\Jupyter projects\eeg-analysis\cog_bci\results_paperPipeline\processed\sub-01_ses-01_removedICs.csv (rows=8)
+Saved IC figures for 8 removed ICs
+Removed 8 ICs: [1 3 4 5 8 29 31 54]
+Saved ICA-cleaned dataset: C:\Users\User\Jupyter projects\eeg-analysis\cog_bci\results_paperPipeline\processed\sub-01_ses-01_cleaned.set
+Created basic ERPLAB eventlist
+Wrote bindesc file: C:\Users\User\Jupyter projects\eeg-analysis\cog_bci\results_paperPipeline\processed\bindesc_twoback_sub-01_ses-01.txt
+Ran pop_binlister; exported eventlist to C:\Users\User\Jupyter projects\eeg-analysis\cog_bci\results_paperPipeline\processed\sub-01_ses-01_eventlist_binned.txt
+Epoching done [-200 800] ms with baseline [-200 0] ms
+Saved epoched set: C:\Users\User\Jupyter projects\eeg-analysis\cog_bci\results_paperPipeline\processed\sub-01_ses-01_epoched.set
+Applied amplitude threshold ±100 µV
+Applied moving-window (win=200 ms, step=50 ms) peak-to-peak threshold 100 µV
+Saved epoch counts per bin CSV
+Saved epoch counts figure
+Saved per-bin trial counts CSV (10 bins). Counts: [0 0 2 3 94 48 0 3 49 13]
+Saved ERP (but some bins below 30 trials): C:\Users\User\Jupyter projects\eeg-analysis\cog_bci\results_paperPipeline\erp\sub-01_ses-01_ERP.erp
+Bins passing threshold: [5 6 9]
+Saved ERP figures
+[16-Nov-2025 19:57:29] Processing C:\Users\User\Jupyter projects\eeg-analysis\cog_bci\sub-03\ses-01\eeg\twoBACK.set
+Found chanlocs file: C:\Users\User\Jupyter projects\eeg-analysis\cog_bci\sub-03\ses-01\chanlocs\get_chanlocs.txt
+Assigned coordinates for 63 channels based on C:\Users\User\Jupyter projects\eeg-analysis\cog_bci\sub-03\ses-01\chanlocs\get_chanlocs.txt
+Downsampled to 250 Hz
+High-pass filtered at 1.00 Hz
+Applied CleanLine at 50 Hz
+Saved pre-ICA set: C:\Users\User\Jupyter projects\eeg-analysis\cog_bci\results_paperPipeline\processed\sub-03_ses-01_preICA.set
+Saved physio-only set: C:\Users\User\Jupyter projects\eeg-analysis\cog_bci\results_paperPipeline\processed\sub-03_ses-01_physioChannels.set
+Excluded non-EEG channels for ICA/bad-channel detection: ECG1
+Auto-detected 3 bad channels by 2-SD rule: Fp1, T7, AF8
+Interpolated 3 channels and restored to scalp montage
+Re-referenced to average (full-rank)
+Running ICA (runica extended)... this may take a while
+ICA finished: 58 components
+Saved post-ICA set: C:\Users\User\Jupyter projects\eeg-analysis\cog_bci\results_paperPipeline\processed\sub-03_ses-01_postICA.set
+Saved ICLabel table (all ICs): C:\Users\User\Jupyter projects\eeg-analysis\cog_bci\results_paperPipeline\processed\sub-03_ses-01_ICLabel_all.csv
+Saved removed ICs CSV: C:\Users\User\Jupyter projects\eeg-analysis\cog_bci\results_paperPipeline\processed\sub-03_ses-01_removedICs.csv (rows=9)
+Saved IC figures for 9 removed ICs
+Removed 9 ICs: [2 5 8 12 16 17 18 23 29]
+Saved ICA-cleaned dataset: C:\Users\User\Jupyter projects\eeg-analysis\cog_bci\results_paperPipeline\processed\sub-03_ses-01_cleaned.set
+Created basic ERPLAB eventlist
+Wrote bindesc file: C:\Users\User\Jupyter projects\eeg-analysis\cog_bci\results_paperPipeline\processed\bindesc_twoback_sub-03_ses-01.txt
+Ran pop_binlister; exported eventlist to C:\Users\User\Jupyter projects\eeg-analysis\cog_bci\results_paperPipeline\processed\sub-03_ses-01_eventlist_binned.txt
+Epoching done [-200 800] ms with baseline [-200 0] ms
+Saved epoched set: C:\Users\User\Jupyter projects\eeg-analysis\cog_bci\results_paperPipeline\processed\sub-03_ses-01_epoched.set
+Applied amplitude threshold ±100 µV
+Applied moving-window (win=200 ms, step=50 ms) peak-to-peak threshold 100 µV
+Saved epoch counts per bin CSV
+Saved epoch counts figure
+Saved per-bin trial counts CSV (10 bins). Counts: [0 0 2 3 96 48 0 3 51 13]
+Saved ERP (but some bins below 30 trials): C:\Users\User\Jupyter projects\eeg-analysis\cog_bci\results_paperPipeline\erp\sub-03_ses-01_ERP.erp
+Bins passing threshold: [5 6 9]
+Saved ERP figures
+[16-Nov-2025 20:08:18] Processing C:\Users\User\Jupyter projects\eeg-analysis\cog_bci\sub-04\ses-01\eeg\twoBACK.set
+Found chanlocs file: C:\Users\User\Jupyter projects\eeg-analysis\cog_bci\sub-04\ses-01\chanlocs\get_chanlocs.txt
+Assigned coordinates for 63 channels based on C:\Users\User\Jupyter projects\eeg-analysis\cog_bci\sub-04\ses-01\chanlocs\get_chanlocs.txt
+Downsampled to 250 Hz
+High-pass filtered at 1.00 Hz
+Applied CleanLine at 50 Hz
+Saved pre-ICA set: C:\Users\User\Jupyter projects\eeg-analysis\cog_bci\results_paperPipeline\processed\sub-04_ses-01_preICA.set
+Saved physio-only set: C:\Users\User\Jupyter projects\eeg-analysis\cog_bci\results_paperPipeline\processed\sub-04_ses-01_physioChannels.set
+Excluded non-EEG channels for ICA/bad-channel detection: ECG1
+Auto-detected 3 bad channels by 2-SD rule: Fp1, Fp2, AF8
+Interpolated 3 channels and restored to scalp montage
+Re-referenced to average (full-rank)
+Running ICA (runica extended)... this may take a while
+ICA finished: 58 components
+Saved post-ICA set: C:\Users\User\Jupyter projects\eeg-analysis\cog_bci\results_paperPipeline\processed\sub-04_ses-01_postICA.set
+Saved ICLabel table (all ICs): C:\Users\User\Jupyter projects\eeg-analysis\cog_bci\results_paperPipeline\processed\sub-04_ses-01_ICLabel_all.csv
+Saved removed ICs CSV: C:\Users\User\Jupyter projects\eeg-analysis\cog_bci\results_paperPipeline\processed\sub-04_ses-01_removedICs.csv (rows=5)
+Saved IC figures for 5 removed ICs
+Removed 5 ICs: [8 12 13 18 27]
+Saved ICA-cleaned dataset: C:\Users\User\Jupyter projects\eeg-analysis\cog_bci\results_paperPipeline\processed\sub-04_ses-01_cleaned.set
+Created basic ERPLAB eventlist
+Wrote bindesc file: C:\Users\User\Jupyter projects\eeg-analysis\cog_bci\results_paperPipeline\processed\bindesc_twoback_sub-04_ses-01.txt
+Ran pop_binlister; exported eventlist to C:\Users\User\Jupyter projects\eeg-analysis\cog_bci\results_paperPipeline\processed\sub-04_ses-01_eventlist_binned.txt
+Epoching done [-200 800] ms with baseline [-200 0] ms
+Saved epoched set: C:\Users\User\Jupyter projects\eeg-analysis\cog_bci\results_paperPipeline\processed\sub-04_ses-01_epoched.set
+Applied amplitude threshold ±100 µV
+Applied moving-window (win=200 ms, step=50 ms) peak-to-peak threshold 100 µV
+Saved epoch counts per bin CSV
+Saved epoch counts figure
+Saved per-bin trial counts CSV (10 bins). Counts: [0 0 2 3 90 47 0 4 18 6]
+Saved ERP (but some bins below 30 trials): C:\Users\User\Jupyter projects\eeg-analysis\cog_bci\results_paperPipeline\erp\sub-04_ses-01_ERP.erp
+Bins passing threshold: [5 6]
+Saved ERP figures
+Saved grand-average ERP: C:\Users\User\Jupyter projects\eeg-analysis\cog_bci\results_paperPipeline\erp\grand_avg_all.erp
+Pipeline finished at 16-Nov-2025 20:28:02
